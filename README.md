@@ -1,3 +1,3 @@
 SourceTree  
 new folder  
-new branch - conflict
+new branch - conflict resolved
